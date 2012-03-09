@@ -1,0 +1,64 @@
+#accompaniment
+vegetable
+olive
+pickle
+mushroom
+black radish
+burdock
+carrot
+celeriac
+celery
+turnip
+jicama
+cilantro root
+daikon
+white radish
+radish
+parsley
+horseradish
+lotus root
+dill
+parsley root
+parsnip
+rutabaga
+salsify
+scorzonera
+casava
+potato
+jicama
+yam
+sweet cassava
+yam bean
+green onions
+leeks
+shallots
+ginger
+garlic
+cabbages
+broccoli
+cauliflower
+artichoke
+lettuce
+endive
+mache
+cress
+spinach
+Chinese broccoli
+kale
+choy sum
+collard
+een choy
+kai choy
+sorrle
+ung choy
+tomatoe
+eggplant
+squash
+cucumber
+pepper
+chile
+avocado
+sprout
+bamboo shoot
+bread crumb
+breadcrumb

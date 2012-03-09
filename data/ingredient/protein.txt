@@ -1,0 +1,189 @@
+#protein
+meat
+animal
+chicken
+chicken breast
+chicken leg
+chicken wing
+duck
+goose
+turkey
+paneer
+beef
+pork
+lamb
+veal
+emu
+frog
+capretto
+goat
+cabrito
+mutton
+ostrich
+rabbit
+rhea
+alligator
+antelope
+bear
+bighorn sheep
+boar
+buffalo
+bison
+caribou
+cooter
+crocodile
+deer meat
+dove elk
+grouse
+kangaroo
+moose
+partridge
+pigeon
+quail
+rattlesnake
+vension
+turtle
+squirrel
+bacon
+salt pork
+sausage
+salami
+bastruma
+pastirma
+bologna
+corned beef
+galatina
+gelbwurst
+headcheese
+liverwurst
+pate
+loaf
+ham
+heart
+kidneys
+liver
+blood
+brain
+sweetbread
+testicle
+tongue
+tripe
+beef jerky
+biltong
+bresaola
+bunderfleisch
+chipped beef
+dried beef
+pemmican
+turkey jerky
+bean
+nut
+cheese
+milk
+pea
+egg
+tofu
+# http://www.foodsubs.com/FGFish.html
+fish
+angler fish
+bellyfish
+blackfish
+tautog
+tog
+cabrilla
+California sea bass
+Cape shark
+cobia
+coalfish
+crabeater
+cunner
+mahi-mahi
+frogfish
+goosefish
+grouper
+hogfish
+jewfish
+kajiki
+lemonfish
+lingcod
+marlin
+Pacific blue marlin
+ponfret
+pompano
+black pomfret
+sea-devil
+shark
+sheepshead
+skate
+striped bass
+swardfish
+tilapia
+tuna
+eel
+carp
+catfish
+conger
+spiny
+sturgeon
+codfish
+dories
+drums
+flatfish
+mullets
+perches
+pikes
+porgies
+rockfish
+roughies
+tilefish
+arctic char
+aroma fish
+black cod
+bluefish
+buffalofish
+butterfish
+escobar
+salmon
+mackerel
+sablefish
+sardines
+sea trout
+shad
+smelt
+trout
+whitefish
+shellfish
+awabi
+clam
+scallops
+bloody clam
+calamari
+shrimp
+canal shrimp
+cherrystone clam
+chowder clam
+cockle
+conch
+crab
+crayfish
+cuttlefish
+prawn
+geoduck clam
+green mussel
+hard-shell clam
+hardshell clam
+lobster
+loco
+octopus
+ormer
+oyster
+quahog
+razor clam
+sea slug
+sea cucumber
+soft-shell clam
+squid
+surf clam
+surimi
+caviar
+roe

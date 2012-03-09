@@ -1,0 +1,3 @@
+[stir-fry] <@x1>: [chop] <@x1> into small pieces, [add] <cooking oil> to a pan
+[stew]: [add] <cooking liquid>
+[braise]: [add] <cooking liquid>

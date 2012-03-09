@@ -1,0 +1,54 @@
+Cooking Action,
+[Bake] <@x1>: preheat the oven, preheating oven, put <@x1> into the oven
+[Baste] <@x1>: apply sauce to <@x1>, cook the <@x1>
+[Beat] <@x1>: beat the <@x1>
+[Blackened] <@x1>: dip <@x1> in melted butter, cover with herbs and spices
+[Blanch] <@x1>: briefly put <@x1> in boiling water, put <@x1> under cold water
+[Blend] <@x1>: blend the <@x1>
+[Boil] <@x1>: boil the <@x1>, add water, bring it to boil
+[Braise] <@x1>: [sear] <@x1> at a high heat, finish cooking in a covered pot 
+[Broil] <@x1>: cook <@x1> on a grill
+[Brown] <@x1>: cook <@x1> on a pan, wait until it turns brown
+[Caramelize] <@x1>: cook <@x1> on a pan, wait until it turns brown
+[Chop] <@x1>: chop the <@x1>
+[Coat] <@x1>: coat the <@x1>
+[Cream] <@x1>: simmer <@x1> in milk, heat the milk
+[Cut] <@x1>: cut the <@x1>
+[Deep fry] <@x1>: submerge <@x1> in hot oil, heat the oil
+[Deglaze] <@x1>: remove <@x1> from heat, use what remains on pan to make a sauce
+[Dice] <@x1>: dice the <@x1>
+[Dredge] <@x1>: coat <@x1> with flavoring prior to cooking
+[Fry] <@x1>: fry <@x1> the, take a pan on medium heat, cut the <@x1> into medium sized cubes
+[Glaze] <@x1>: coat <@x1> with a sweet substance
+[Grate] <@x1>: grate the <@x1>
+[Grease] <@x1>: grease the <@x1>
+[Grill] <@x1>: cook <@x1> on a grill
+[Grind] <@x1>: grind the <@x1>
+[Knead] <@x1>: knead the <@x1>
+[Marinate] <@x1>: soak <@x1> in the seasoned liquid
+[Mince] <@x1>: mince the <@x1>
+[Mix] <@x1>: mix the <@x1>
+[Moisten] <@x1>: moisten the <@x1>
+[Pan fry] <@x1>: submerge <@x1> in hot oil in a pan, heat oil
+[Poach] <@x1>: gently simmer <@x1> in liquid, heat liquid to simmer
+[Puree] <@x1>: blend <@x1>, wait until it is the consistency of paste
+[Reduce] <@x1>: boil <@x1>, wait until sauce thickens
+[Roast] <@x1>: cook <@x1> over indirect heat
+[Sautee] <@x1>: add oil and <@x1> to pan, cook <@x1> over high heat
+[Score] <@x1>: cut grooves into the <@x1>
+[Sear] <@x1>: cook <@x1> at a high temperature
+[Season] <@x1>: add flavoring to <@x1>
+[Shred] <@x1>: shred the <@x1>
+[Sift] <@x1>: sift the <@x1>
+[Simmer] <@x1>: simmer the <@x1>, bring liquid to a boil, add <@x1> into the pan
+[Skim] <@x1>: skim the <@x1>
+[Steam] <@x1>: place <@x1> in steamer, bring water to boil
+[Steep] <@x1>: put <@x1> in liquid, heat the liquid
+[Stewing] <@x1>: put <@x1> into pot, heat the liquid
+[Stir Fry] <@x1>: add oil and <@x1> to pan, cook over high heat, heat the oil
+[Thin] <@x1>: thin the <@x1>
+[Toss] <@x1>: toss the <@x1>
+[Water bath] <@x1>: put <@x1> in a pot, place the pot in hot water
+[Whip] <@x1>: whip the <@x1>
+[Whisk] <@x1>: whisk the <@x1>
+[Zest] <@x1>: zest the <@x1>

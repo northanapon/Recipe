@@ -1,0 +1,284 @@
+#flavoring
+Ajwain
+carom seeds
+Akudjura
+Alexanders
+Alfalfa
+Alkanet
+Alligator pepper
+mbongo spice
+hepper pepper
+Allspice
+Angelica
+Anise
+Aniseed myrtle
+Annatto
+malai
+wonton wrapper
+Apple mint
+Asafoetida
+Asarabacca
+poppy seed
+cashew nut
+Kasoori Methi
+green chili
+Cashewnut paste
+red chili
+sugar
+coriander
+garam masala
+chili powder
+Avens
+Avocado leaf
+Barberry
+basil
+Sweet basil
+Lemon basil
+Thai basil
+Holy basil
+dijon mustard
+Bay leaf
+green bean
+beef stock
+Boldo
+Borage
+Black cardamom
+Black mustard
+Blue fenugreek
+blue melilot
+bread
+Brown mustard
+Calabash nutmeg
+ehuru
+Calendula
+pot marigold
+Camphor laurel
+Canelo
+Winter's Bark
+Caraway
+Cardamom
+Carob
+Catnip
+Cassia
+Cayenne pepper
+Celery seed
+Chervil
+Chicory
+Chili pepper
+Chocolate groung
+Chives
+Cicely
+sweet cicely
+Cilantros
+coriander greens
+coriander herb
+Indonesian Cinnamon
+Cinnamon
+Vietnamese Cinnamon
+Ceylon Cinnamon
+white Cinnamon
+Cinnamon myrtle
+Clary
+Clary sage
+Clove
+Coriander seed
+cornstarch
+Costmary
+Cuban oregano
+Cubeb pepper
+Cudweed
+Culantro
+culangot
+long coriander
+Cumin
+Curry leaf
+Curry plant
+Dill seed
+Dill herb
+Dill weed
+egg noodle
+Elderflower
+Epazote
+Fennel
+Fenugreek
+Filé powder
+flour
+gumbo filé
+Fingerroot
+krachai
+temu kuntji
+greater Galangal
+lesser Galangal
+Galingale
+Garlic chives
+Garlic
+elephant Garlic
+Ginger
+torch Ginger
+Golpar
+Persian hogweed
+Grains of paradise
+Grains of Selim
+Kani pepper
+Hopsousesuers
+Horseradish
+Houttuynia
+Huacatay
+Mexican marigold
+mint marigold
+Hyssop
+Indonesian bay leaf
+daun slam
+Jasmine flowers
+Jimbu
+Juniper berry
+Kaffir lime leaves
+Makrud lime leaves
+Kala Zeera
+black cumin
+Kawakawa
+Kencur
+galangal
+kentjur
+Keluak
+kluwak
+kepayang
+Kokam seed
+Korarima
+Ethiopian cardamom
+false cardamom
+Koseret
+Lavender
+Lemon balm
+Lemongrass
+Lemon ironbark
+Lemon myrtle
+Lemon verbena
+Leptotes bicolor
+Lesser calamint
+nipitella
+nepitella
+Licorice
+liquorice
+Lime flower
+linden flower
+Lovage
+Mace
+Mahlab, St. Lucie cherry
+Malabathrum
+tejpat
+Marjoram
+Marsh mallow
+Mastic
+Mint
+Mountain horopito
+Musk mallow
+abelmosk
+black Mustard plant
+black mustard seed
+brown Mustard plant
+brown mustard seed
+mustard powder
+white Mustard plant
+white mustard seed
+Nasturtium
+Nigella
+kalonji
+black caraway
+onion
+black onion seed
+Njangsa
+djansang
+Nutmeg
+Olida
+Oregano
+Orris root
+Pandan flower
+kewra
+Pandan leaf
+screwpine
+Paprika
+Paracress
+Parsley
+black pepper
+white pepper
+green pepper
+dorrigo Pepper
+long Pepper
+Cornish pepper leaf
+Peppermint
+Peppermint gum leaf
+Perilla
+shiso
+Peruvian pepper
+Brazilian pepper
+Pink pepper
+Quassia
+Ramsons
+wood garlic
+Rice paddy herbo
+Rosemary
+Rue
+Safflower
+Saffron
+Sage
+Saigon cinnamon
+Salad burnet
+Salep
+salt
+Sassafras
+summer Savory
+winter Savory
+Silphium
+silphion
+laser
+laserpicium
+lasarpicium
+Sorrel
+sheep Sorrel
+soy sauce
+spaetzle
+spaghetti sauce
+Spearmint
+Spikenard
+Star anise
+Sumac
+Sweet woodruff
+Szechuan pepper
+Sichuan pepper
+Sour cream
+Tarragon
+Thyme
+lemon Thyme
+Turmeric
+Vanilla
+Vietnamese balm
+Vietnamese cinnamon
+Vietnamese coriander
+Voatsiperifer
+Wasabi
+Water-pepper
+smartweed
+Watercress
+Wattleseed
+White mustard
+Wild betel
+Wild thyme
+Willow herb
+Winter savory
+Wintergreen
+Wood avens
+herb bennet
+Woodruff
+Wormwood
+absinthe
+viburnum bark
+Yellow mustard
+Yerba buena
+Za'atar
+Zedoary
+garlic chili sauce
+lemon
+lime
+clove
+vinegar
